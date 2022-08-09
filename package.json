@@ -1,0 +1,17 @@
+{
+  "name": "js-new-features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.4.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.28"
+  }
+}
